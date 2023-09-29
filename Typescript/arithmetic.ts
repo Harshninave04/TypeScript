@@ -21,3 +21,11 @@ exponent;
 
 const bitwiseXOR = x ^ y;
 bitwiseXOR;
+
+
+// Concatenation operator (+) and template literals
+
+console.log(`${x} ${y} ${x * y}`)
+const l = `${x} ${y} ${x * y}`
+
+console.log(x + " " + y + " " + 124)

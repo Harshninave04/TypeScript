@@ -12,3 +12,10 @@ function vichitra() {
 }
 
 vichitra();
+
+// write a while loop that logs number between 1 and 10 in reverse.
+let counter = 10;
+while (counter >= 1) {
+  console.log(counter);
+  counter--;
+}

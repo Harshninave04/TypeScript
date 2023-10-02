@@ -1,4 +1,5 @@
+"use strict";
 var number = 8;
 if (number != undefined) {
-  console.log("something");
+    console.log("something");
 }

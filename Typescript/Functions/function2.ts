@@ -1,7 +1,6 @@
 function console3() {
   console.log("console ke andar");
 }
-
 console3();
 
 function console1(a: number, b: number) {
